@@ -1,12 +1,21 @@
 .main {
-  display: flex;
-  flex-direction: column;
+  display: grid;
   justify-content: space-between;
   align-items: center;
   padding: 6rem;
   min-height: 100vh;
+  align-content: space-between;
 }
 
+.main b{
+  padding: 3rem;
+}
+.main hr{
+  padding: 3px;
+}
+.main ul{
+  padding: 1rem;
+}
 .description {
   display: inherit;
   justify-content: inherit;
@@ -29,11 +38,11 @@
   position: relative;
   margin: 0;
   padding: 1rem;
-  background-color: rgba(var(--callout-rgb), 0.5);
-  border: 1px solid rgba(var(--callout-border-rgb), 0.3);
-  border-radius: var(--border-radius);
-}
 
+}
+.main ul{
+ color: white;
+}
 .code {
   font-weight: 700;
   font-family: var(--font-mono);
