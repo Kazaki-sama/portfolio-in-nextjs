@@ -6,7 +6,7 @@ export default function Home() {
     <main className={styles.main}>
       <div className={styles.description}>
         <p>
-          I am Subham Maharjan.
+          Subham Maharjan.
         </p>
         <hr/>
         <div>
