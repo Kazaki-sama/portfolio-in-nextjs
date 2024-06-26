@@ -7,6 +7,9 @@ export default function Home() {
       <div className={styles.description}>
         <p>
           <h1><b>JEASON GAY</b></h1>
+          <h1><b>MANAV GAY</b></h1>
+          <h1><b>prasan GAY</b></h1>
+          <h1><b>AMIR GAY</b></h1>
         </p>
         <hr/>
         
