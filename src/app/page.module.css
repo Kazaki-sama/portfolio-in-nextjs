@@ -35,7 +35,8 @@
 }
 
 .description p {
-  position: relative;
+  position: grid;
+  justify-content: center;
   margin: 0;
   padding: 1rem;
 
