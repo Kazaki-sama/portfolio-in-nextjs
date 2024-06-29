@@ -17,11 +17,11 @@ export default function RootLayout({
     <html lang="en">
       
       <body className={inter.className}>
-      <div>
+      <div className="navbar">
         <ul >
          <li> Subham Maharjan / Designer / Web Developer </li>
         
-         <li> <Link href={"/"}>About me</Link></li>
+         <li> <Link href="/">About me</Link></li>
          <li> <Link href="/resume">Resume</Link></li>
          <li> <Link href="/Project">Project</Link></li>
           </ul>
