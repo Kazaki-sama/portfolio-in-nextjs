@@ -93,6 +93,7 @@ body {
       rgb(var(--background-end-rgb))
     )
     rgb(var(--background-start-rgb));
+    
 }
 
 a {
@@ -104,7 +105,7 @@ a {
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 2rem;
+  padding: 3rem;
 }
 
 .navbar ul{
