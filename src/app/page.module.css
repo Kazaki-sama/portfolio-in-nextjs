@@ -1,8 +1,8 @@
 .main {
-  display: grid;
-  justify-content: space-between;
+  display: flex;
+  justify-content: center;
   align-items: center;
-  padding: 6rem;
+  padding: 4rem;
   min-height: 100vh;
   align-content: space-between;
 }
@@ -24,6 +24,7 @@
   font-size: 0.85rem;
   max-width: var(--max-width);
   width: 100%;
+  
   z-index: 2;
   font-family: var(--font-mono);
 }
@@ -45,7 +46,10 @@
 }
 
 .about{
-  padding: 5rem;
+  padding: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 

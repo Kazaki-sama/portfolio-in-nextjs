@@ -20,7 +20,9 @@ export default function Home() {
         </div>
 
         <div className="about">
-        <p>I am Subham Maharjan. I am 19.I love coding, designing and game dev.</p>
+        <p>I am Subham Maharjan. I am 19.I love coding, designing and game dev. I love cats but cat doesn't like me 
+          sadly.
+        </p>
 
         language I know.<br/>
         lua the best

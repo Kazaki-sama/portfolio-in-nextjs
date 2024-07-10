@@ -19,7 +19,7 @@ export default function RootLayout({
       <body className={inter.className}>
       <div className="navbar">
         <ul>
-         <li> Subham Maharjan / Designer / Web Developer </li>
+         <li> <Link href="/">Subham Maharjan / Designer / Web Developer </Link> </li>
          <li> <Link href="/">About me</Link></li>
          <li> <Link href="/resume">Resume</Link></li>
          <li> <Link href="/Project">Project</Link></li>

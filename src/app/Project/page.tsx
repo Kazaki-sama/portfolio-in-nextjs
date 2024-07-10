@@ -5,7 +5,7 @@ const Project = () => {
 
     <div className={styles.main}>
         <div className={styles.description}>
-        Enter
+        Enter something of life is not something
         </div>
     </div>
     );
