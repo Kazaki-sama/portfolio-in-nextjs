@@ -4,7 +4,7 @@ const resume = () => {
     return (
         <div className={styles.main}>
             <div className={styles.description}>
-            <a href='src/app/Project' download> Download resume</a>
+            <a href='src/app/Project' download> </a>
             </div>
         </div>
     );

@@ -25,7 +25,7 @@ export default function Home() {
         </p>
 
         language I know.<br/>
-        lua the best
+        <ul><li>lua</li></ul>
         
         </div>
       

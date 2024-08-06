@@ -1,11 +1,12 @@
-import { GetServerSideProps } from 'next';
 import styles from '../page.module.css';
+import Link from 'next/link';
+
 const Project = () => {
     return (
-
+        
     <div className={styles.main}>
         <div className={styles.description}>
-        Enter something of life is not something
+        <Link href="/blogpost"></Link>
         </div>
     </div>
     );
